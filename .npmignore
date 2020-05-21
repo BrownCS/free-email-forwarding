@@ -1,0 +1,10 @@
+.nyc_output
+coverage
+*.key
+*.ca
+*.cert
+*.csr
+*.enc
+*.env
+media
+

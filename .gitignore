@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+.idea
+node_modules
+coverage
+.nyc_output
+*.ca
+*.cert
+*.csr
+*.key
+*.env
+*.pem
